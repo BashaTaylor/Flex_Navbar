@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.center-box {
+    background-color: rgb(8, 8, 131);
+    height: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center-item {
+    background-color: burlywood;
+    height: 100px;
+    width: 100px;
+}
